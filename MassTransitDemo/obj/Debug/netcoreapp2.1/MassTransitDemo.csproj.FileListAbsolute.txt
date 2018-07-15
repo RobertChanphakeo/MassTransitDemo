@@ -1,0 +1,14 @@
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\bin\Debug\netcoreapp2.1\MassTransitDemo.deps.json
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\bin\Debug\netcoreapp2.1\MassTransitDemo.runtimeconfig.json
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\bin\Debug\netcoreapp2.1\MassTransitDemo.runtimeconfig.dev.json
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\bin\Debug\netcoreapp2.1\MassTransitDemo.dll
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\bin\Debug\netcoreapp2.1\MassTransitDemo.pdb
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.csprojAssemblyReference.cache
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.RazorAssemblyInfo.cache
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.RazorAssemblyInfo.cs
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.AssemblyInfoInputs.cache
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.AssemblyInfo.cs
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.RazorTargetAssemblyInfo.cache
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.dll
+C:\Users\rober\Documents\Visual Studio 2017\Projects\MassTransitDemo\MassTransitDemo\obj\Debug\netcoreapp2.1\MassTransitDemo.pdb
