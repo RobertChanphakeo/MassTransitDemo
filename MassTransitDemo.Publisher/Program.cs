@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace MassTransmitDemo
+namespace MassTransitDemo.Publisher
 {
     public class Program
     {
