@@ -6,6 +6,7 @@ using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using MassTransit;
 using MassTransit.Util;
+using MassTransitDemo.Consumer2.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -15,7 +16,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace MassTransitDemo.Publisher
+namespace MassTransitDemo.Consumer2
 {
     public class Startup
     {
@@ -43,8 +44,14 @@ namespace MassTransitDemo.Publisher
                         h.Username("guest");
                         h.Password("guest");
                     });
+
+                    cfg.ReceiveEndpoint(host, "AddUser1", e =>
+                    {
+                        e.Consumer<AddUserConsumer>();
+                    });
                 });
                 return busControl;
+
             })
             .As<IBusControl>()
             .As<IBus>()

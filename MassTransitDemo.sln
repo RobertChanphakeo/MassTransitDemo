@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitDemo.Models", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitDemo.Consumer", "MassTransitDemo.Consumer\MassTransitDemo.Consumer.csproj", "{448A8051-BD15-4981-8E87-47A8C9402DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitDemo.Consumer2", "MassTransitDemo.Consumer2\MassTransitDemo.Consumer2.csproj", "{9F3B43F5-548D-481B-95D8-033A5D39FC05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{448A8051-BD15-4981-8E87-47A8C9402DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{448A8051-BD15-4981-8E87-47A8C9402DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{448A8051-BD15-4981-8E87-47A8C9402DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F3B43F5-548D-481B-95D8-033A5D39FC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F3B43F5-548D-481B-95D8-033A5D39FC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F3B43F5-548D-481B-95D8-033A5D39FC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F3B43F5-548D-481B-95D8-033A5D39FC05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
